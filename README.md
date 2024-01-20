@@ -4,7 +4,7 @@
 
 
 ## 💻 Projeto DarklightForm  ⚫⚪
-Formulário com Modo DARK e LIGHT
+Formulário responsivo com Modo DARK e LIGHT
 - Reproduzindo uma versão da tela inicial de login do *Github*
 
 

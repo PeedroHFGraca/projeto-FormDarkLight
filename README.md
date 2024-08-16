@@ -9,7 +9,7 @@ Formulário responsivo com Modo DARK e LIGHT
 
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologoias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5 e CSS3
 - JS 
